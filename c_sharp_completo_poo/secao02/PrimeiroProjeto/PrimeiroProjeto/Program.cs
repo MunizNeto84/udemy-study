@@ -3,7 +3,7 @@
 
 using System;
 
-namespace PrimeiroProjeto 
+namespace PrimeiroProjeto
 {
     internal class Program
     {
